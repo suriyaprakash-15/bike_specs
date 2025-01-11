@@ -1,0 +1,17 @@
+.hor{
+    /* background-image: url('../home/Benu.jpg'); */
+    background-image: url('./Images/Benu.jpg');
+    mask-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+
+}
+    
+h1{
+    color: green;
+}
+
+.alig{
+    color:rgb(255, 255, 255);
+
+}

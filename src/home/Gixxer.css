@@ -1,0 +1,19 @@
+.gix{
+    /* background-image: url('../home/gixxer.jpg'); */
+    background-image: url('./Images/gixxer.jpg');
+    mask-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+
+}
+    
+
+
+h1{ 
+    color: green;
+}
+
+.aligg{
+    color:rgb(255, 0, 0);
+
+}

@@ -1,0 +1,120 @@
+
+
+ /* .main{ 
+    flex-direction: row;
+    display: inline-block;
+    grid-row: auto;
+    -ms-grid-row-align: center; */
+
+    .Main{
+      /* background-image: url('./back.jpg'); */
+      background-position: center;
+      background-repeat: no-repeat;
+      margin-left: 2cm;
+    }
+    
+    h1{
+      text-align: center;
+    }
+
+    .Homee{
+      color: brown;
+      float:right;
+      margin-right: 1cm;
+      
+    }
+
+     .msb{
+      color: brown;
+      float:right
+    }
+     
+
+    
+    button{
+      text-align: center;
+      background-color: black;
+      color: aqua;
+    }
+    
+    .first{
+      display: inline-flex; 
+      gap: 40px;
+      
+    }
+
+.tvs{
+    height: 35vh;
+    width: 25vw;
+    /* background-image: url('../home/tvs1.jpg'); */
+    /* background-image: url('./Images/tvs1.jpg'); */
+    background-image: url('../../public/Images/tvs1.jpg');
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.hornet{
+    height: 35vh;
+    width: 25vw;
+    /* background-image: url('../home/hornet1.jpg'); */
+    background-image: url('./Images/hornet1.jpg');
+    background-position:  center;
+    background-size: cover;
+    
+    }
+    
+    .gixxer{
+      height: 35vh;
+      width:25vw;
+      /* background-image: url('../home/gixxer.jpg'); */
+      background-image: url('./Images/gixxer.jpg');
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+
+
+    .second{
+      display: inline-flex;
+      gap: 40px;
+    }
+    
+             /* classic 350  */
+    .RE{
+      height: 35vh;
+      width: 25vw;
+      /* background-image: url('../home/clasic350.jpg'); */
+      background-image: url('./Images/clasic350.jpg');
+      background-position: center;
+      
+    }
+    /* mt15 */
+    
+    .yamaha{
+      height: 35vh;
+      width: 25vw;
+      /* background-image: url('../home/mt155.jpg'); */
+      background-image:url('./Images/mt155.jpg');
+      background-position: center;
+      background-size: cover;
+    }
+
+    .bajaj{
+      height:35vh;
+      width:25vw;
+      /* background-image:url('../home/ns1.jpg'); */
+      background-image: url('./Images/ns1.jpg');
+      background-position:center;
+      background-size: cover;
+    }
+
+
+
+
+
+
+
+
+
+

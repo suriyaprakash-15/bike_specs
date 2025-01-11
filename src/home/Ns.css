@@ -1,0 +1,20 @@
+.Ns{
+    /* background-image: url('../home/mt15.jpg'); */
+    background-image: url('./Images/ns1.jpg');
+    mask-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* filter:blur(8px) */
+    
+}
+h1{
+    color: crimson;
+}
+table{
+    margin-top: 2cm;
+    margin-inline-start: auto;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+

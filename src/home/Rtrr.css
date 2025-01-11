@@ -1,0 +1,19 @@
+.rtr{
+    /* background-image: url('../home/tvs.jpg'); */
+    background-image: url('./Images/tvs.jpg');
+    mask-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: -5.5rem;
+    
+}
+h1{
+    color: crimson;
+}
+.algg{
+    margin-top: 2cm;
+    margin-inline-start: auto;
+    color: rgb(0, 0, 0);
+}
+
+

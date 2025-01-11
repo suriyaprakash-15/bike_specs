@@ -1,0 +1,47 @@
+/* src/App.css */
+.auth-container {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .auth-container h2 {
+    text-align: center;
+  }
+  
+  .auth-container form div {
+    margin-bottom: 15px;
+  }
+  
+  .auth-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .auth-container input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .auth-container .error {
+    color: red;
+    font-size: 0.8em;
+  }
+  
+  .auth-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .auth-container button:hover {
+    background-color: #218838;
+  }
+  

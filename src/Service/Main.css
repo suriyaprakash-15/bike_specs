@@ -1,0 +1,73 @@
+/* .servicebtn{
+    width:35%;
+    height: 4cm;
+    margin-top: 3cm;
+    margin-left: 1cm;
+    background-image: url('../../public/Images/service1.jpg');
+    background-position: center;
+    background-size: cover;
+      
+} */
+
+.servicebtn{
+    height: 35vh;
+    width: 25vw;
+    /* background-image: url('../home/tvs1.jpg'); */
+    /* background-image: url('./Images/tvs1.jpg'); */
+    background-image: url('../../public/Images/spanner.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+/* .specsbtn{
+    float:right;
+    margin-top: 3cm;
+    width:35%;
+    height: 1.5cm;
+    margin-left: 11cm;
+    margin-top: 0.5%;   
+} */
+
+.specsbtn{
+    height: 50vh;
+    width: 25vw;
+    /* background-image: url('../home/hornet1.jpg'); */
+    background-image: url('../../public/Images/spec.jpg');
+    background-position:  center;
+    background-size: cover;
+}
+
+/* .specm{
+    float: right;
+} */
+
+.btnm{
+    display: inline-flex;
+    gap: 100px;
+    margin-left: 7cm;
+    margin-top: 2.5cm;
+}
+
+
+h1{
+    margin-top: 2cm;
+    gap: 40px;
+}
+
+.Log{
+    align-items: center;
+    position: relative;
+    float: right;
+    left: 100px;
+    margin-left: 11cm;
+    color: gray;
+
+
+}
+
+.Lout{
+    align-items: end;
+    align-items: right;
+    margin-top: 11%;
+    margin-left: 30cm;
+}
